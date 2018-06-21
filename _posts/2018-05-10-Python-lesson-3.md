@@ -1,5 +1,5 @@
 ---
-title: IT lesson 3
+title: Python lesson 3
 layout: post
 author: william.knox
 permalink: /it-lesson-3/
@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title</td>
-    <td>IT Lesson 3</td>
+    <td>Python Lesson 3</td>
     <td>Date</td>
     <td>3/5/18</td>
   </tr>
