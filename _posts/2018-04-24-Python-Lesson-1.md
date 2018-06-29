@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Python Lesson 1</td>
     <td>Date</td>
-    <td>19.04.18</td>
+    <td>19/04/18</td>
   </tr>
 </table>
 
