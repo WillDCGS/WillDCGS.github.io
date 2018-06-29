@@ -56,5 +56,5 @@ published: true
     <td>This lesson we had a cover which meant we were less focused. Next time I will make sure that I focus and will not get distracted by my other classmates and their work. I will try and talk a lot less and I will try and get through many, many more exercises. </td>
   </tr>
 </table>
-
+<img src = 
 
