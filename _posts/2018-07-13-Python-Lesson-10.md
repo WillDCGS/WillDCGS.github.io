@@ -56,5 +56,7 @@ published: true
     <td>I don't believe that i can change anything for next time. As i already said i do not think anything limited my learning.</td>
   </tr>
 </table>
-
-
+<img src = "/Screenshot 2018-07-13 at 14.22.52.png">
+<img src = "">
+<img src = "">
+<img src = "">
