@@ -59,4 +59,4 @@ published: true
 <img src = "/images/Screenshot 2018-07-13 at 14.22.52.png">
 <img src = "/images/Screenshot 2018-07-13 at 14.22.45.png">
 <img src = "/images/Screenshot 2018-07-13 at 14.23.06.png">
-<img src = "">
+<img src = "/images/Screenshot 2018-07-13 at 14.15.06.png">
