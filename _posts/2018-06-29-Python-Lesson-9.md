@@ -56,5 +56,6 @@ published: true
     <td>Next time I will make sure that I focus. I will try to understand the code better so that next week I will complete more.</td>
   </tr>
 </table>
+<img src = "/images/Screenshot 2018-07-13 at 13.35.41.png">
 
 
