@@ -57,5 +57,5 @@ published: true
   </tr>
 </table>
 <img src = "/images/Screenshot 2018-07-13 at 13.43.15.png">
-<img src = "">
+<img src = "/images/Screenshot 2018-07-13 at 13.46.55.png">
 
